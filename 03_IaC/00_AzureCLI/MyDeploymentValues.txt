@@ -1,4 +1,4 @@
-botSubDomain=funiejoshliveco.onmicrosoft.com/tbot
+botSubDomain=tbot.funiejoshliveco.onmicrosoft.com.
 botName=BotTeamsTesting
 projectPrefix=tbot
 azureLocation=westeurope
