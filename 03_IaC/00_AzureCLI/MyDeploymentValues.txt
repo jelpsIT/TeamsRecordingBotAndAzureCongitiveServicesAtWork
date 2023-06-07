@@ -1,5 +1,5 @@
 botSubDomain=tbot.funiejoshliveco.onmicrosoft.com
 botName=BotTeamsTesting
-projectPrefix=tbot
+projectPrefix=teamstesting
 azureLocation=westeurope
 acrName=tbotlive
