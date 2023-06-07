@@ -1,5 +1,5 @@
-botSubDomain=albot.vsalis.eu
-botName=myTeamsRecBot
-projectPrefix=albot
-azureLocation=northeurope
-acrName=albotacr
+botSubDomain=funiejoshliveco.onmicrosoft.com
+botName=BotTeamsTesting
+projectPrefix=tbot
+azureLocation=westeurope
+acrName=tbotlive
